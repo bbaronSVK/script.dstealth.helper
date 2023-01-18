@@ -1,0 +1,6 @@
+TODO:
+    - add Trakt pages
+	- add watched status updating
+	- add TV seasons
+	- add TV season episodes
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="32800">
+		<setting label="32801" type="lsep" enable="false" />
+        <setting label="32802" id="setting.noop" type="action" enable="false" action="noop" />
+		<setting label="32805" id="items.per.page" type="slider" default="20" range="10,40" option="int" />
+	</category>
+	<category label="32830">
+		<setting label="32835" type="lsep" enable="false" />
+		<setting label="32836" id="trakt.user" type="text" default="" enable="false" visible="true" />
+        <setting label="32837" id="trakt.auth" type="action" option="close" action="RunPlugin(plugin://script.dstealth.helper/?req=trakt_auth)" />
+        <setting label=""      id="trakt.token" type="text" visible="false" default="" />
+        <setting label=""      id="trakt.refresh" type="text" visible="false" default="" />
+        <setting type="sep" />
+	</category>
+	<category label="32890">
+		<setting label="32891" type="lsep" />
+		<setting label="32892" id="debug.enabled" type="bool" default="false" />
+		<setting label="32893" id="cache.timeout" type="slider" default="60" range="1,300" option="int" />
+		<setting label="32894" type="action" action="RunScript(script.dstealth.helper, action=cache_clear)" />
+	</category>
+</settings>

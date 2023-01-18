@@ -1,0 +1,491 @@
+# DStealth Helper language file
+# Addon Name: DStealth Helper
+# Addon id: script.dstealth.helper
+# Addon Provider: DStealth
+msgid ""
+msgstr ""
+"Project-Id-Version: DStealth Helper\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_GB\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#32000"
+msgid "DS Helper"
+msgstr ""
+
+msgctxt "#32001"
+msgid "DS Helper Debug"
+msgstr ""
+
+msgctxt "#32002"
+msgid "DS Helper Error"
+msgstr ""
+
+msgctxt "#32010"
+msgid "This is a tool to provide features to a skin and requires skin integration."
+msgstr ""
+
+msgctxt "#32011"
+msgid "A setting must be passed in as a parameter."
+msgstr ""
+
+msgctxt "#32012"
+msgid "A value must be passed in as a parameter."
+msgstr ""
+
+msgctxt "#32013"
+msgid "A plugin handle could not be retrieved or was not passed in."
+msgstr ""
+
+msgctxt "#32014"
+msgid "The passed in menuitem was not a valid MenuItem or ListItem."
+msgstr ""
+
+msgctxt "#32015"
+msgid "Add to Library"
+msgstr ""
+
+msgctxt "#32016"
+msgid "Could not find any trailers for "
+msgstr ""
+
+msgctxt "#32017"
+msgid "Next Page"
+msgstr ""
+
+msgctxt "#32100"
+msgid "Movies"
+msgstr ""
+
+msgctxt "#32101"
+msgid "In Theatres"
+msgstr ""
+
+msgctxt "#32102"
+msgid "New Movies"
+msgstr ""
+
+msgctxt "#32103"
+msgid "Popular Movies"
+msgstr ""
+
+msgctxt "#32104"
+msgid "Trending Movies"
+msgstr ""
+
+msgctxt "#32105"
+msgid "Anticipated Movies"
+msgstr ""
+
+msgctxt "#32106"
+msgid "Genre: Action Movies"
+msgstr ""
+
+msgctxt "#32107"
+msgid "Genre: Comedy Movies"
+msgstr ""
+
+msgctxt "#32108"
+msgid "Genre: Drama Movies"
+msgstr ""
+
+msgctxt "#32109"
+msgid "Genre: Horror Movies"
+msgstr ""
+
+msgctxt "#32110"
+msgid "Genre: Thriller Movies"
+msgstr ""
+
+msgctxt "#32200"
+msgid "TV Shows"
+msgstr ""
+
+msgctxt "#32201"
+msgid "New Episodes"
+msgstr ""
+
+msgctxt "#32202"
+msgid "New Shows"
+msgstr ""
+
+msgctxt "#32203"
+msgid "Highly-Rated Shows"
+msgstr ""
+
+msgctxt "#32204"
+msgid "Trending Shows"
+msgstr ""
+
+msgctxt "#32205"
+msgid "Anticipated Shows"
+msgstr ""
+
+msgctxt "#32206"
+msgid "Genre: Action Shows"
+msgstr ""
+
+msgctxt "#32207"
+msgid "Genre: Comedy Shows"
+msgstr ""
+
+msgctxt "#32208"
+msgid "Genre: Drama Shows"
+msgstr ""
+
+msgctxt "#32209"
+msgid "Genre: Horror Shows"
+msgstr ""
+
+msgctxt "#32210"
+msgid "Genre: Thriller Shows"
+msgstr ""
+
+msgctxt "#32300"
+msgid "Trakt"
+msgstr ""
+
+msgctxt "#32301"
+msgid "Trakt account already exists!"
+msgstr ""
+
+msgctxt "#32302"
+msgid "Do you want to reset the existing authorization?"
+msgstr ""
+
+msgctxt "#32303"
+msgid "Did not receive the response expected from Trakt. Please check logs or try again."
+msgstr ""
+
+msgctxt "#32304"
+msgid "Visit website [B][COLOR skyblue]%s[/COLOR][/B]"
+msgstr ""
+
+msgctxt "#32305"
+msgid "When prompted enter this code: [B][COLOR skyblue]%s[/COLOR][/B]"
+msgstr ""
+
+msgctxt "#32400"
+msgid "Search"
+msgstr ""
+
+msgctxt "#32500"
+msgid "Filter"
+msgstr ""
+
+msgctxt "#32501"
+msgid "Any"
+msgstr ""
+
+msgctxt "#32502"
+msgid "All time"
+msgstr ""
+
+msgctxt "#32503"
+msgid "Any or no votes"
+msgstr ""
+
+msgctxt "#32510"
+msgid "Primary Language"
+msgstr ""
+
+msgctxt "#32511"
+msgid "English"
+msgstr ""
+
+msgctxt "#32512"
+msgid "Cantonese"
+msgstr ""
+
+msgctxt "#32513"
+msgid "French"
+msgstr ""
+
+msgctxt "#32514"
+msgid "German"
+msgstr ""
+
+msgctxt "#32515"
+msgid "Hindi"
+msgstr ""
+
+msgctxt "#32516"
+msgid "Italian"
+msgstr ""
+
+msgctxt "#32517"
+msgid "Japanese"
+msgstr ""
+
+msgctxt "#32518"
+msgid "Korean"
+msgstr ""
+
+msgctxt "#32519"
+msgid "Mandarin"
+msgstr ""
+
+msgctxt "#32520"
+msgid "Punjabi"
+msgstr ""
+
+msgctxt "#32521"
+msgid "Russian"
+msgstr ""
+
+msgctxt "#32522"
+msgid "Spanish"
+msgstr ""
+
+msgctxt "#32530"
+msgid "Genre"
+msgstr ""
+
+msgctxt "#32531"
+msgid "Action"
+msgstr ""
+
+msgctxt "#32532"
+msgid "Adventure"
+msgstr ""
+
+msgctxt "#32533"
+msgid "Animation"
+msgstr ""
+
+msgctxt "#32534"
+msgid "Biography"
+msgstr ""
+
+msgctxt "#32535"
+msgid "Comedy"
+msgstr ""
+
+msgctxt "#32536"
+msgid "Crime"
+msgstr ""
+
+msgctxt "#32537"
+msgid "Documentary"
+msgstr ""
+
+msgctxt "#32538"
+msgid "Drama"
+msgstr ""
+
+msgctxt "#32539"
+msgid "Family"
+msgstr ""
+
+msgctxt "#32540"
+msgid "Fantasy"
+msgstr ""
+
+msgctxt "#32541"
+msgid "Film-Noir"
+msgstr ""
+
+msgctxt "#32542"
+msgid "Game-Show"
+msgstr ""
+
+msgctxt "#32543"
+msgid "History"
+msgstr ""
+
+msgctxt "#32544"
+msgid "Horror"
+msgstr ""
+
+msgctxt "#32545"
+msgid "Music"
+msgstr ""
+
+msgctxt "#32546"
+msgid "Musical"
+msgstr ""
+
+msgctxt "#32547"
+msgid "Mystery"
+msgstr ""
+
+msgctxt "#32548"
+msgid "News"
+msgstr ""
+
+msgctxt "#32549"
+msgid "Reality-TV"
+msgstr ""
+
+msgctxt "#32550"
+msgid "Romance"
+msgstr ""
+
+msgctxt "#32551"
+msgid "Sci-Fi"
+msgstr ""
+
+msgctxt "#32552"
+msgid "Sport"
+msgstr ""
+
+msgctxt "#32553"
+msgid "Talk-Show"
+msgstr ""
+
+msgctxt "#32554"
+msgid "Thriller"
+msgstr ""
+
+msgctxt "#32555"
+msgid "War"
+msgstr ""
+
+msgctxt "#32556"
+msgid "Western"
+msgstr ""
+
+msgctxt "#32560"
+msgid "Release Date"
+msgstr ""
+
+msgctxt "#32561"
+msgid "Within the last year, including recent"
+msgstr ""
+
+msgctxt "#32562"
+msgid "Within the last year, excluding recent"
+msgstr ""
+
+msgctxt "#32563"
+msgid "Recent (last 60 days)"
+msgstr ""
+
+msgctxt "#32564"
+msgid "Recent (last 30 days)"
+msgstr ""
+
+msgctxt "#32565"
+msgid "Future"
+msgstr ""
+
+msgctxt "#32566"
+msgid "Recent (last 6 months)"
+msgstr ""
+
+msgctxt "#32570"
+msgid "Votes"
+msgstr ""
+
+msgctxt "#32571"
+msgid "%s+ votes"
+msgstr ""
+
+msgctxt "#32580"
+msgid "Sort By"
+msgstr ""
+
+msgctxt "#32581"
+msgid "Popularity, highest first"
+msgstr ""
+
+msgctxt "#32582"
+msgid "Popularity, lowest first"
+msgstr ""
+
+msgctxt "#32583"
+msgid "Release Date, descending"
+msgstr ""
+
+msgctxt "#32584"
+msgid "Release Date, ascending"
+msgstr ""
+
+msgctxt "#32585"
+msgid "User Rating, highest first"
+msgstr ""
+
+msgctxt "#32586"
+msgid "User Rating, lowest first"
+msgstr ""
+
+msgctxt "#32590"
+msgid "Lists"
+msgstr ""
+
+msgctxt "#32591"
+msgid "Top 100"
+msgstr ""
+
+msgctxt "#32592"
+msgid "Top 250"
+msgstr ""
+
+msgctxt "#32593"
+msgid "Top 1000"
+msgstr ""
+
+msgctxt "#32800"
+msgid "General"
+msgstr ""
+
+msgctxt "#32801"
+msgid "General Settings"
+msgstr ""
+
+msgctxt "#32802"
+msgid "Modify varius DStealth Helper settings here."
+msgstr ""
+
+msgctxt "#32805"
+msgid "Items per page"
+msgstr ""
+
+msgctxt "#32830"
+msgid "Accounts"
+msgstr ""
+
+msgctxt "#32835"
+msgid "Trakt"
+msgstr ""
+
+msgctxt "#32836"
+msgid "Trakt User:"
+msgstr ""
+
+msgctxt "#32837"
+msgid "(Re)Authorize Trakt..."
+msgstr ""
+
+msgctxt "#32890"
+msgid "Debugging"
+msgstr ""
+
+msgctxt "#32891"
+msgid "Debug Settings"
+msgstr ""
+
+msgctxt "#32892"
+msgid "Enable Debug (verbose logging)"
+msgstr ""
+
+msgctxt "#32893"
+msgid "Cache timeout (minutes)"
+msgstr ""
+
+msgctxt "#32894"
+msgid "Clear Addon Cache"
+msgstr ""
+
+msgctxt "#32894"
+msgid "Are you sure you want to clear the cache?"
+msgstr ""
+
+msgctxt "#32895"
+msgid "Cache cleared."
+msgstr ""
